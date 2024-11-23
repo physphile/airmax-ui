@@ -1,0 +1,95 @@
+.title-xxl {
+  font-weight: 700;
+  font-size: 64px;
+  line-height: 72px;
+}
+
+.title-xl {
+  font-weight: 700;
+  font-size: 40px;
+  line-height: 54px;
+}
+
+.title-lg {
+  font-weight: 700;
+  font-size: 24px;
+  line-height: 32px;
+}
+
+.title-md {
+  font-weight: 700;
+  font-size: 20px;
+  line-height: 28px;
+}
+
+.title-sm {
+  font-weight: 700;
+  font-size: 17px;
+  line-height: 24px;
+}
+
+.label-xl {
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 24px;
+}
+
+.label-lg {
+  font-weight: 600;
+  font-size: 15px;
+  line-height: 24px;
+}
+
+.label-md {
+  font-weight: 600;
+  font-size: 14px;
+  line-height: 20px;
+}
+
+.label-sm {
+  font-weight: 600;
+  font-size: 13px;
+  line-height: 18px;
+}
+
+.body-xxl {
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 28px;
+}
+
+.body-xl {
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 28px;
+}
+
+.body-lg {
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 24px;
+}
+
+.body-md {
+  font-weight: 400;
+  font-size: 15px;
+  line-height: 24px;
+}
+
+.subhead {
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 20px;
+}
+
+.caption {
+  font-weight: 400;
+  font-size: 13px;
+  line-height: 18px;
+}
+
+.detail {
+  font-weight: 700;
+  font-size: 11px;
+  line-height: 10px;
+}

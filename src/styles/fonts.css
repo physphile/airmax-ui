@@ -1,0 +1,56 @@
+@font-face {
+  font-family: Inter;
+  font-weight: 400;
+  src: url("https://storage.yandexcloud.net/airmax-ui/fonts/Inter_Regular.woff2")
+    format("woff2")
+    url("https://storage.yandexcloud.net/airmax-ui/fonts/Inter_Regular.ttf")
+    format("ttf");
+}
+
+@font-face {
+  font-family: Inter;
+  font-weight: 400;
+  font-style: italic;
+  src: url("https://storage.yandexcloud.net/airmax-ui/fonts/Inter_Italic.woff2")
+    format("woff2")
+    url("https://storage.yandexcloud.net/airmax-ui/fonts/Inter_Italic.ttf")
+    format("ttf");
+}
+
+@font-face {
+  font-family: Inter;
+  font-weight: 700;
+  src: url("https://storage.yandexcloud.net/airmax-ui/fonts/Inter_Bold.woff2")
+    format("woff2")
+    url("https://storage.yandexcloud.net/airmax-ui/fonts/Inter_Bold.ttf")
+    format("ttf");
+}
+
+@font-face {
+  font-family: Inter;
+  font-weight: 700;
+  font-style: italic;
+  src: url("https://storage.yandexcloud.net/airmax-ui/fonts/Inter_BoldItalic.woff2")
+    format("woff2")
+    url("https://storage.yandexcloud.net/airmax-ui/fonts/Inter_BoldItalic.ttf")
+    format("ttf");
+}
+
+@font-face {
+  font-family: Inter;
+  font-weight: 600;
+  src: url("https://storage.yandexcloud.net/airmax-ui/fonts/Inter_SemiBold.woff2")
+    format("woff2")
+    url("https://storage.yandexcloud.net/airmax-ui/fonts/Inter_SemiBold.ttf")
+    format("ttf");
+}
+
+@font-face {
+  font-family: Inter;
+  font-weight: 600;
+  font-style: italic;
+  src: url("https://storage.yandexcloud.net/airmax-ui/fonts/Inter_SemiBoldItalic.woff2")
+    format("woff2")
+    url("https://storage.yandexcloud.net/airmax-ui/fonts/Inter_SemiBoldItalic.ttf")
+    format("ttf");
+}

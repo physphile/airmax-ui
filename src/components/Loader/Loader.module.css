@@ -1,0 +1,22 @@
+@keyframes clockwise {
+  from {
+    transform: rotate(0deg);
+  }
+
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+.spin,
+.antispin {
+  transform-origin: 50% 50%;
+  animation-name: clockwise;
+  animation-duration: 1.5s;
+  animation-timing-function: linear;
+  animation-iteration-count: infinite;
+}
+
+.antispin {
+  animation-direction: reverse;
+}

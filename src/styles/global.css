@@ -1,0 +1,16 @@
+@import url(./fonts.css);
+@import url(./effects.css);
+@import url(./variables.css);
+
+*,
+*::after,
+*::before {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+svg {
+  stroke-linecap: round;
+  stroke-linejoin: round;
+}

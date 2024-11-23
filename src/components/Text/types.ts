@@ -1,0 +1,17 @@
+export type TextType =
+  | "title-xxl"
+  | "title-xl"
+  | "title-lg"
+  | "title-md"
+  | "title-sm"
+  | "label-xl"
+  | "label-lg"
+  | "label-md"
+  | "label-sm"
+  | "body-xxl"
+  | "body-xl"
+  | "body-lg"
+  | "body-md"
+  | "subhead"
+  | "caption"
+  | "detail";

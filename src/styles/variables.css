@@ -1,0 +1,29 @@
+:root {
+  /* border-radius */
+  --airmax-border-radius-small: 6px;
+  --airmax-border-radius-medium: 8px;
+  --airmax-border-radius-large: 12px;
+  --airmax-border-radius-full: 999px;
+
+  /* box-shadow */
+  --airmax-box-shadow-large: 6px 0 12px 0 rgb(0 0 0 / 24%);
+  --airmax-box-shadow-medium: 0 4px 16px 0 rgb(0 0 0 / 12%);
+  --airmax-box-shadow-medium-success: 0 4px 16px 0 rgb(0 246 115 / 12%);
+  --airmax-box-shadow-medium-error: 0 4px 16px 0 rgba(255 55 89 / 12%);
+  --airmax-box-shadow-small: 0 2px 8px 0 rgb(0 0 0 / 6%);
+
+  /* spacings */
+  --airmax-spacing-1: 8px;
+  --airmax-spacing-2: 12px;
+  --airmax-spacing-3: 16px;
+  --airmax-spacing-4: 24px;
+  --airmax-spacing-5: 32px;
+  --airmax-spacing-6: 48px;
+  --airmax-spacing-7: 64px;
+  --airmax-spacing-8: 96px;
+  --airmax-spacing-9: 128px;
+
+  /* colors */
+  --airmax-color-brand: #0987ee;
+  --airmax-color-brand-lighter: #3aa3f9;
+}
